@@ -1,0 +1,18 @@
+# Object files
+*.o
+*.exe
+
+# Executable
+student_management_system
+
+# Data files
+*.txt
+!README.md
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
