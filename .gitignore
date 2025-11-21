@@ -8,6 +8,8 @@ student_management_system
 # Data files
 *.txt
 !README.md
+!docs/*.txt
+!docs/*.pdf
 
 # IDE specific files
 .vscode/
